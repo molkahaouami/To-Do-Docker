@@ -123,7 +123,7 @@ Sous Linux/macOS : `export DB_PATH=./data/app.db SECRET_KEY=dev ADMIN_PASSWORD=a
 
 Ouvrir un navigateur et accéder à :
 
-http://localhost:5000
+http://localhost:8000
 
 ## 🐳 Exécution avec Docker Compose
 
