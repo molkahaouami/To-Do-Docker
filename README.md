@@ -351,5 +351,9 @@ Ce projet m'a permis de découvrir le développement web avec Flask : routes, te
 Ce projet constitue une étape vers la compréhension du déploiement d'applications sécurisées dans des environnements conteneurisés.
 
 ## 👩‍💻 Auteur
+GDAIEM AMINE
+EMNA JAZZAR 
+MARIEM LOUATI
+MOLKA HAOUAMI
 
 Projet réalisé dans le cadre de l'apprentissage de Docker et du développement web avec Python et Flask.
